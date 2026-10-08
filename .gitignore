@@ -1,0 +1,4 @@
+bin/shellx
+build/
+*.o
+*.out
